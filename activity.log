@@ -229,3 +229,5 @@
 2025-06-10 18:10:00 | DEBUG | repo=ffmpeg.wasm | action=commit
 2025-07-18 15:41:00 | DEBUG | repo=ffmpeg.wasm | action=commit
 2025-10-21 13:43:00 | WARN | repo=ffmpeg.wasm | action=commit
+2025-02-28 07:11:00 | WARN | repo=ffmpeg.wasm | action=edit | files=4
+2025-05-03 10:40:00 | DEBUG | repo=ffmpeg.wasm | action=commit
