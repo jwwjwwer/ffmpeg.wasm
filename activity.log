@@ -91,3 +91,5 @@
 2025-08-27 18:07:00 | INFO | repo=ffmpeg.wasm | action=commit
 2025-05-10 21:33:00 | INFO | repo=ffmpeg.wasm | action=commit
 2025-03-25 09:21:00 | DEBUG | repo=ffmpeg.wasm | action=commit
+2025-12-16 21:10:00 | DEBUG | repo=ffmpeg.wasm | action=test | passed=true
+2025-11-26 08:04:00 | WARN | repo=ffmpeg.wasm | action=commit
